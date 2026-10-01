@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Artem and I'm a Data Analyst from Russia</h2>
+<h2 align="left">Hi 👋! My name is Artem and I'm an ML Engineer from Russia</h2>
 
 ###
 
